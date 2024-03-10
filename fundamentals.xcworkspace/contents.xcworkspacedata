@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Protocols.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Classes.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Enumerations.playground">
+   </FileRef>
+   <FileRef
       location = "group:Structure.playground">
    </FileRef>
    <FileRef
